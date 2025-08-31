@@ -1,2 +1,2 @@
-# Gost-3412-for-Verilog
-# Gost-3412-for-Verilog
+# Реализация ГОСТ Р 3412 2015 на языке SystemVerilog
+
